@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e27900a-d764-496b-8b5b-17c43a99fb16" name="Changes" comment="Created Student class">
+    <list default="true" id="9e27900a-d764-496b-8b5b-17c43a99fb16" name="Changes" comment="Added Course class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assessment.py" beforeDir="false" afterPath="$PROJECT_DIR$/assessment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course.py" beforeDir="false" afterPath="$PROJECT_DIR$/course.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1783062604444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Course class">
+      <option name="closed" value="true" />
+      <created>1783143206386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783143206386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Student class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Student class" />
+    <MESSAGE value="Added Course class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Course class" />
   </component>
 </project>

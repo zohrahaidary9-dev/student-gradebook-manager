@@ -14,6 +14,7 @@ class Course:
     def add_student(self, student):
         if student not in self.students:
             self.students.append(student)
+            student.enroll_course(self.get_course_code())
 
     def add_assessment(self, assessment):
         self.assessments.append(assessment)
