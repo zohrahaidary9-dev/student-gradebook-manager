@@ -19,7 +19,7 @@ class Course:
     def add_assessment(self, assessment):
         self.assessments.append(assessment)
 
-    def display_course(self):
+    def display_info(self):
         print("Course Code:", self.__course_code)
         print("Course Name:", self.__course_name)
         print("Number of Students:", len(self.students))
