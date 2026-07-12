@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e27900a-d764-496b-8b5b-17c43a99fb16" name="Changes" comment="Enhanced project with dashboard and extra features">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="9e27900a-d764-496b-8b5b-17c43a99fb16" name="Changes" comment="Final project version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783516335579</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Final project version">
+      <option name="closed" value="true" />
+      <created>1783855315079</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783855315079</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,6 +131,7 @@
     <MESSAGE value="Added Quiz, Exam and Project classes" />
     <MESSAGE value="Completed Gradebook and menu system" />
     <MESSAGE value="Enhanced project with dashboard and extra features" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enhanced project with dashboard and extra features" />
+    <MESSAGE value="Final project version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final project version" />
   </component>
 </project>
