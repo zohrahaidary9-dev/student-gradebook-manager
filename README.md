@@ -53,7 +53,7 @@ This project demonstrates the following OOP concepts:
 
 ## Author
 
-Name: Zohra Haidary
+Name: Zohra Haidari
 
 Course: Python Programming
 
